@@ -8,9 +8,9 @@
    id="svg93"
    xml:space="preserve"
    enable-background="new 0 0 679 155.5"
-   viewBox="0 0 616 155.5"
+   viewBox="0 0 684 155.5"
    height="155.5"
-   width="616"
+   width="684"
    y="0px"
    x="0px"
    version="1.1"><metadata
@@ -19,7 +19,6 @@
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs97" />
 <g
-   style="fill:#52c48b;fill-opacity:1"
    id="Layer_1">
 	<path
    style="fill:#52c48b;fill-opacity:1"
@@ -43,18 +42,30 @@
    d="m 157.45,63.919 h -12.824 l 3.848,-12.826 h 8.976 V 25.442 h 12.827 v 25.651 h 19.239 l -3.848,12.826 h -15.391 v 32.064 c 0,3.591 2.823,6.413 6.413,6.413 h 12.827 l -3.848,12.825 h -8.979 c -10.645,0 -19.239,-8.594 -19.239,-19.238 V 63.919 Z" />
 </g>
 
-<flowRoot
-   transform="matrix(3.2052839,0,0,3.2052839,-142.12365,381.26395)"
-   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7a52;fill-opacity:1;stroke:none;"
-   id="flowRoot3804"
-   xml:space="preserve"><flowRegion
-     style="fill:#2a7a52;fill-opacity:1;"
-     id="flowRegion3806"><rect
-       style="fill:#2a7a52;fill-opacity:1;"
-       y="-118.48246"
-       x="138.97661"
-       height="104.23246"
-       width="358.85745"
-       id="rect3808" /></flowRegion><flowPara
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1;"
-     id="flowPara3810">linter</flowPara></flowRoot></svg>
+<g
+   id="g1383"><g
+     id="flowRoot3804"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a7a52;fill-opacity:1;stroke:none"
+     transform="matrix(3.2052839,0,0,3.2052839,-142.12365,381.26395)"
+     aria-label="quality"><path
+       id="path1385"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1"
+       d="m 152.57656,-83.091797 v 8 h 4 V -103.0918 h -10 c -3.32,0 -6,2.68 -6,6.000003 v 8 c 0,3.32 2.68,6 6,6 z m -8,-14 c 0,-1.12 0.88,-2 2,-2 h 6 v 12 h -6 c -1.12,0 -2,-0.88 -2,-2 z" /><path
+       id="path1387"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1"
+       d="m 166.58594,-87.091797 c -1.12,0 -2,-0.88 -2,-2 V -103.0918 h -4 v 14.000003 c 0,3.32 2.68,6 6,6 h 4 c 3.32,0 6,-2.68 6,-6 V -103.0918 h -4 v 14.000003 c 0,1.12 -0.88,2 -2,2 z" /><path
+       id="path1389"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1"
+       d="m 189.78594,-99.091797 c 1.12,0 2,0.88 2,2 v 2 h -6 c -3.32,0 -6,2.68 -6,6 0,3.32 2.68,6 6,6 h 10 v -14 c 0,-3.320003 -2.68,-6.000003 -6,-6.000003 h -8 l -1.2,4.000003 z m -4,12 c -1.12,0 -2,-0.88 -2,-2 0,-1.12 0.88,-2 2,-2 h 6 v 4 z" /><path
+       id="path1391"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1"
+       d="m 199.80469,-89.091797 c 0,3.32 2.68,6 6,6 h 1.2 l 1.2,-4 h -2.4 c -1.12,0 -2,-0.88 -2,-2 V -111.0918 h -4 z" /><path
+       id="path1393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1"
+       d="m 210.58594,-83.091797 h 4 V -103.0918 h -4 z m 0,-24.000003 h 4 v -4 h -4 z" /><path
+       id="path1395"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1"
+       d="m 220.95469,-89.091797 c 0,3.32 2.68,6 6,6 h 2.8 l 1.2,-4 h -4 c -1.12,0 -2,-0.88 -2,-2 v -10 h 4.8 l 1.2,-4.000003 h -6 v -8 h -4 v 8 h -2.8 l -1.2,4.000003 h 4 z" /><path
+       id="path1397"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tenby Five';-inkscape-font-specification:'Tenby Five';fill:#2a7a52;fill-opacity:1"
+       d="m 233.32031,-103.0918 v 14.000003 c 0,3.32 2.68,6 6,6 h 6 v 2 c 0,1.12 -0.88,2 -2,2 h -9.2 l 1.2,4 h 8 c 3.32,0 6,-2.68 6,-6 V -103.0918 h -4 v 16.000003 h -6 c -1.12,0 -2,-0.88 -2,-2 V -103.0918 Z" /></g></g></svg>
