@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 205.28246 127.36383"
+   height="127.36383mm"
+   width="205.28246mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-2.4166672,0.0042723)"
+     id="layer1">
+    <text
+       id="text974"
+       y="41.798573"
+       x="48.108456"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         id="tspan962"
+         y="41.798573"
+         x="48.108456"><tspan
+           id="tspan958"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;line-height:0.94999999;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#0f0f0f;fill-opacity:1;stroke-width:0.26458332"
+           y="41.798573"
+           x="48.108456">log</tspan><tspan
+           id="tspan960"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;line-height:0.94999999;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#0f0f0f;fill-opacity:1;stroke-width:0.26458332"
+           y="41.798573"
+           x="111.56712"
+           dx="0" /></tspan><tspan
+         style="stroke-width:0.26458332"
+         id="tspan968"
+         y="75.312462"
+         x="48.108456"><tspan
+           id="tspan964"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;line-height:0.94999999;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#0f0f0f;fill-opacity:1;stroke-width:0.26458332"
+           y="75.312462"
+           x="48.108456">process</tspan><tspan
+           id="tspan966"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;line-height:0.94999999;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#0f0f0f;fill-opacity:1;stroke-width:0.26458332"
+           y="75.312462"
+           x="196.17867"
+           dx="0" /></tspan><tspan
+         style="stroke-width:0.26458332"
+         id="tspan972"
+         y="108.82635"
+         x="48.108456"><tspan
+           id="tspan970"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;line-height:0.94999999;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#0f0f0f;fill-opacity:1;stroke-width:0.26458332"
+           y="108.82635"
+           x="48.108456">errors</tspan></tspan></text>
+    <text
+       id="text4605"
+       y="82.120674"
+       x="10.80639"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:44.09722519px;fill:#00a500;fill-opacity:1;stroke-width:0.26458332"
+         y="82.120674"
+         x="10.80639"
+         id="tspan4603">✓</tspan></text>
+    <text
+       id="text4605-0"
+       y="47.624344"
+       x="10.80639"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:44.09722519px;fill:#00a500;fill-opacity:1;stroke-width:0.26458332"
+         y="47.624344"
+         x="10.80639"
+         id="tspan4603-2">✓</tspan></text>
+    <text
+       id="text4627"
+       y="112.0495"
+       x="14.415318"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:35.27778244px;fill:#a50000;fill-opacity:1;stroke-width:0.26458332"
+         y="112.0495"
+         x="14.415318"
+         id="tspan4625">✗</tspan></text>
+  </g>
+</svg>
