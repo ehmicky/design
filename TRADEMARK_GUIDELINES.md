@@ -28,7 +28,7 @@ The sections that follow describe what trademarks are covered by this
 Policy, as well as uses of the trademarks that are allowed without
 additional permission from us. If you want to use our trademarks in ways
 that are not described in this Policy, please see ["Where to get further
-information"](#wheretogetfurtherinformation) below for
+information"](#where-to-get-further-information) below for
 contact information. Any use that does not comply with this Policy or
 for which we have not separately provided written permission is not a
 use that we have approved, so you must decide for yourself whether the
@@ -86,9 +86,9 @@ Whenever you use one of the Marks, you must always do so in a way that
 does not mislead anyone, either directly or by omission, about exactly
 what they are getting and from whom. The law reflects this requirement
 in two major ways described in more detail
-[below](#whattrademarklawisabout): it prohibits creating
-a ["likelihood of confusion"](#whatislikelihoodofconfusion) but allows
-for ["nominative use."](#whatisnominativeuse) For
+[below](#what-trademark-law-is-about): it prohibits creating
+a ["likelihood of confusion"](#what-is-likelihood-of-confusion) but allows
+for ["nominative use."](#what-is-nominative-use) For
 example, you cannot say you are distributing "the Project"
 when you're distributing a modified version of it, because people would
 be confused when they are not getting the same features and
@@ -132,7 +132,7 @@ benefit.
 
 ## Use for software
 
-See [Universal considerations for all uses](#universalconsiderationsforalluses), above, which
+See [Universal considerations for all uses](#universal-considerations-for-all-uses), above, which
 also apply.
 
 ### Uses we consider non-infringing
@@ -242,7 +242,7 @@ but requires separate, independent action to install it.
 
 ## Use for non-software goods and services
 
-See [Universal considerations for all uses](#universalconsiderationsforalluses), above, which
+See [Universal considerations for all uses](#universal-considerations-for-all-uses), above, which
 also apply.
 
 ### Uses we consider non-infringing
@@ -286,7 +286,7 @@ that:
   - Any charge to attend meetings are to cover the cost of the venue,
     food and drink only.
 
-Note that the [Universal considerations for all uses](#universalconsiderationsforalluses), above, still
+Note that the [Universal considerations for all uses](#universal-considerations-for-all-uses), above, still
 apply, specifically, that you may not use or register the Marks as part
 of your own trademark, service mark, domain name, company name, trade
 name, product name or service name.
@@ -320,7 +320,7 @@ an infringement of our Marks.
 The first or most prominent mention of a Mark on a webpage, document,
 packaging, or documentation should be accompanied by a symbol indicating
 whether the mark is a registered trademark ("®") or an unregistered
-trademark ("™"). See our [Trademark List](#ourtrademarks)
+trademark ("™"). See our [Trademark List](#our-trademarks)
 for the correct symbol to use.
 
 Also, if you are using our Marks in a way described in the sections
@@ -335,7 +335,7 @@ countries".
 
 If you are aware of any confusing use or misuse of the Marks in any way,
 we would appreciate you bringing this to our attention. Please contact
-us as described [below](#wheretofindfurtherinformation)
+us as described [below](#where-to-find-further-information)
 so that we can investigate it further.
 
 ### Where to get further information
@@ -435,7 +435,7 @@ Unacceptable: I put a \<\<\~Mark\>\> on my mom's computer.<br>
 Acceptable: I put a \<\<\~Mark\>\> system on my mom's computer.
 
 **Always use a trademark as an adjective modifying a noun.** You can see
-the nouns we prefer under ["Our trademarks."](#ourtrademarks)<br>
+the nouns we prefer under ["Our trademarks."](#our-trademarks)<br>
 Unacceptable: This is a \<\<\~Mark\>\>. Anyone can install it.<br>
 Acceptable: This is a \<\<\~Mark\>\> application. Anyone can install it.
 
