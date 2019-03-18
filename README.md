@@ -1,4 +1,7 @@
-Logos of my open-source projects.
+This repository contains the logos used in my projects.
+
+Those logos are trademarked, but you are free to use them providing they follow
+our [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/autoserver/autoserver.svg?sanitize=true" width="550"/>
 
@@ -8,6 +11,3 @@ Logos of my open-source projects.
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/unix-permissions/unix-permissions.png?sanitize=true" width="550"/>
 
-This repository contains the logos used in my open-source projects.
-Those logos are trademarked, but you are free to use them in articles,
-blog posts and social media posts mentioning the projects.
