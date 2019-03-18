@@ -335,7 +335,7 @@ countries".
 
 If you are aware of any confusing use or misuse of the Marks in any way,
 we would appreciate you bringing this to our attention. Please contact
-us as described [below](#where-to-find-further-information)
+us as described [below](#where-to-get-further-information)
 so that we can investigate it further.
 
 ### Where to get further information
