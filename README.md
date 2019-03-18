@@ -1,7 +1,7 @@
 This repository contains the logos used in my projects.
 
-Those logos are trademarked, but you are free to use them providing they follow
-the [trademark guidelines](TRADEMARK_GUIDELINES.md).
+The names and logos are trademarked, but you are free to use them providing they
+follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/autoserver/autoserver.svg?sanitize=true" width="550"/>
 
