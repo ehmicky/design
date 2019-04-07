@@ -5,13 +5,13 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 # Logos
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/autoserver/autoserver.svg?sanitize=true" width="500"/>
+<img src="autoserver/autoserver.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/cross-platform-nodejs/cross-platform-nodejs.svg?sanitize=true" width="500"/>
+<img src="cross-platform-nodejs/cross-platform-nodejs.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/execa/execa.svg?sanitize=true" width="500"/>
+<img src="execa/execa.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
+<img src="log-process-errors/log-process-errors.svg" width="500"/>
 
 <img src="unix-permissions/unix-permissions.png" width="500"/>
 
