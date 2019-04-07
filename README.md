@@ -13,7 +13,7 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/unix-permissions/unix-permissions.png" width="500"/>
+<img src="unix-permissions/unix-permissions.png" width="500"/>
 
 # Fonts
 
