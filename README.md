@@ -3,6 +3,10 @@ This repository contains the logos used in my projects.
 The names and logos are trademarked, but you are free to use them providing they
 follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
+The `validate-path` logo is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). It was designed by
+[reallinfo](https://github.com/reallinfo).
+
 # Logos
 
 <img src="autoserver/autoserver.svg" width="500"/>
@@ -15,11 +19,7 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 <img src="unix-permissions/unix-permissions.png" width="500"/>
 
-<img src="validate-path/validate-path-horizontal.svg" width="500"/>
-
-- The logo of the validate-path is designed by [reallinfo](https://github.com/reallinfo).
-
-- The logo is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+<img src="validate-path/validate-path.svg" width="500"/>
 
 # Fonts
 
