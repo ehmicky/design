@@ -15,6 +15,8 @@ The `validate-path` logo is licensed under
 
 <img src="execa/execa.svg" width="500"/>
 
+<img src="gulp-execa/gulp-execa.svg" width="500"/>
+
 <img src="log-process-errors/log-process-errors.svg" width="500"/>
 
 <img src="unix-permissions/unix-permissions.png" width="500"/>
@@ -26,5 +28,5 @@ The `validate-path` logo is licensed under
   - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver.
   - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node.
   - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): unix-permissions.
-  - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa.
+  - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa.
   - [Montserrat](https://fonts.google.com/specimen/Montserrat): validate-path.
