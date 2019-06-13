@@ -64,15 +64,15 @@ This Policy covers:
 
 2\. Our logos (the "Logos"):
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/autoserver/autoserver.svg?sanitize=true" width="550"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/autoserver/autoserver.svg?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/keep-func-props/keep-func-props.svg?sanitize=true" width="400"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/keep-func-props/keep-func-props.svg?sanitize=true" width="700"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="400"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/portable-node-guide/portable-node-guide.png?sanitize=true" width="550"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/portable-node-guide/portable-node-guide.png?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/unix-permissions/unix-permissions.png?sanitize=true" width="550"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/unix-permissions/unix-permissions.png?sanitize=true" width="500"/>
 
 3\. And the unique visual styling of our website and packaging (the
 "Trade Dress").
