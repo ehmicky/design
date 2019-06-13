@@ -3,7 +3,7 @@
 ## Introduction
 
 This document, the "Policy," outlines the policy for the use of our trademarks
-in "Autoserver", "log-process-errors", "portable node.js" and "unix-permissions"
+in "Autoserver", "keep-func-props", "log-process-errors", "portable node.js" and "unix-permissions"
 (each referred to as the "Project").
 
 While our software is available under a free and open source software license,
@@ -57,6 +57,7 @@ This Policy covers:
 | Mark               | Common descriptive name for the goods or services      |
 | :----------------- | ------------------------------------------------------ |
 | Autoserver         | Create a full-featured REST/GraphQL API from a configuration file |
+| keep-func-props    | Wrap a function without changing its name, length and other properties |
 | log-process-errors | Show some ❤️ to Node.js process errors                  |
 | portable node.js   | Practical guide on how to write portable/cross-platform Node.js code |
 | unix-permissions   | Swiss Army knife for Unix permissions                  |
@@ -64,6 +65,8 @@ This Policy covers:
 2\. Our logos (the "Logos"):
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/autoserver/autoserver.svg?sanitize=true" width="550"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/keep-func-props/keep-func-props.svg?sanitize=true" width="400"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="400"/>
 
