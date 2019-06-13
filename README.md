@@ -19,6 +19,8 @@ The `validate-path` logo is licensed under
 
 <img src="keep-func-props/keep-func-props.svg" width="700"/>
 
+<img src="mimic-fn/mimic-fn.svg" width="430"/>
+
 <img src="log-process-errors/log-process-errors.svg" width="500"/>
 
 <img src="unix-permissions/unix-permissions.png" width="500"/>
