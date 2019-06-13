@@ -17,7 +17,7 @@ The `validate-path` logo is licensed under
 
 <img src="gulp-execa/gulp-execa.svg" width="500"/>
 
-<img src="keep-func-props/keep-func-props.svg" width="500"/>
+<img src="keep-func-props/keep-func-props.svg" width="700"/>
 
 <img src="log-process-errors/log-process-errors.svg" width="500"/>
 
