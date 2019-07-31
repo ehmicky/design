@@ -35,9 +35,10 @@ The `validate-path` logo is licensed under
 
 # Fonts
 
-  - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver.
-  - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node.
-  - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, unix-permissions.
-  - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa.
-  - [Montserrat](https://fonts.google.com/specimen/Montserrat): validate-path.
-  - [Neuropolitical](http://typodermicfonts.com/neuropolitical-science): test-each.
+  - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
+  - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, unix-permissions
+  - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa
+  - [Montserrat](https://fonts.google.com/specimen/Montserrat): validate-path
+  - [Neuropolitical](http://typodermicfonts.com/neuropolitical-science): test-each
+  - [Segment7](https://fontlibrary.org/en/font/segment7): spyd
+  - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver
