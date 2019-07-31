@@ -25,7 +25,7 @@ The `validate-path` logo is licensed under
 
 <img src="log-process-errors/log-process-errors.svg" width="500"/>
 
-<img src="spyd/spyd.svg" width="500"/>
+<img src="spyd/spyd.svg" width="400"/>
 
 <img src="test-each/test-each.svg" width="500"/>
 

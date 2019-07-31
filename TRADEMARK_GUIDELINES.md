@@ -77,7 +77,7 @@ This Policy covers:
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/portable-node-guide/portable-node-guide.png?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/spyd/spyd.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/spyd/spyd.svg?sanitize=true" width="400"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/test-each/test-each.svg?sanitize=true" width="500"/>
 
