@@ -3,7 +3,7 @@
 ## Introduction
 
 This document, the "Policy," outlines the policy for the use of our trademarks
-in "Autoserver", "get-bin-path", "keep-func-props", "log-process-errors", "portable node.js", "test-each" and "unix-permissions"
+in "Autoserver", "get-bin-path", "keep-func-props", "log-process-errors", "portable node.js", "spyd", test-each" and "unix-permissions"
 (each referred to as the "Project").
 
 While our software is available under a free and open source software license,
@@ -61,6 +61,7 @@ This Policy covers:
 | keep-func-props    | Wrap a function without changing its name, length and other properties |
 | log-process-errors | Show some ❤️ to Node.js process errors                  |
 | portable node.js   | Practical guide on how to write portable/cross-platform Node.js code |
+| spyd               | JavaScript performance testing |
 | test-each          | Repeat tests. Repeat tests. Repeat tests |
 | unix-permissions   | Swiss Army knife for Unix permissions                  |
 
@@ -75,6 +76,8 @@ This Policy covers:
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/portable-node-guide/portable-node-guide.png?sanitize=true" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/spyd/spyd.svg?sanitize=true" width="500"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/test-each/test-each.svg?sanitize=true" width="500"/>
 
