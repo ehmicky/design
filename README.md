@@ -25,7 +25,7 @@ The `validate-path` logo is licensed under
 
 <img src="mimic-fn/mimic-fn.svg" width="430"/>
 
-<img src="nve/nve.svg" width="500"/>
+<img src="nve/nve.svg" width="400"/>
 
 <img src="spyd/spyd.svg" width="400"/>
 
