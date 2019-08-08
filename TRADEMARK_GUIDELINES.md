@@ -3,7 +3,7 @@
 ## Introduction
 
 This document, the "Policy," outlines the policy for the use of our trademarks
-in "Autoserver", "get-bin-path", "keep-func-props", "log-process-errors", "portable node.js", "spyd", test-each" and "unix-permissions"
+in "Autoserver", "get-bin-path", "keep-func-props", "log-process-errors", "nve", "portable node.js", "spyd", test-each" and "unix-permissions"
 (each referred to as the "Project").
 
 While our software is available under a free and open source software license,
@@ -60,6 +60,7 @@ This Policy covers:
 | get-bin-path       | Get the current package's binary path |
 | keep-func-props    | Wrap a function without changing its name, length and other properties |
 | log-process-errors | Show some ❤️ to Node.js process errors                  |
+| nve                | Run a specific Node.js version |
 | portable node.js   | Practical guide on how to write portable/cross-platform Node.js code |
 | spyd               | JavaScript performance testing |
 | test-each          | Repeat tests. Repeat tests. Repeat tests |
@@ -74,6 +75,8 @@ This Policy covers:
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/keep-func-props/keep-func-props.svg?sanitize=true" width="700"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/master/nve/nve.svg?sanitize=true" width="500"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/master/portable-node-guide/portable-node-guide.png?sanitize=true" width="500"/>
 

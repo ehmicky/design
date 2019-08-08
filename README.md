@@ -21,9 +21,11 @@ The `validate-path` logo is licensed under
 
 <img src="keep-func-props/keep-func-props.svg" width="700"/>
 
+<img src="log-process-errors/log-process-errors.svg" width="500"/>
+
 <img src="mimic-fn/mimic-fn.svg" width="430"/>
 
-<img src="log-process-errors/log-process-errors.svg" width="500"/>
+<img src="nve/nve.svg" width="500"/>
 
 <img src="spyd/spyd.svg" width="400"/>
 
@@ -40,5 +42,6 @@ The `validate-path` logo is licensed under
   - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa
   - [Montserrat](https://fonts.google.com/specimen/Montserrat): validate-path
   - [Neuropolitical](http://typodermicfonts.com/neuropolitical-science): test-each
+  - [Perfect Dark](https://www.dafont.com/perfect-dark.font): nve
   - [Segment7](https://fontlibrary.org/en/font/segment7): spyd
   - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver
