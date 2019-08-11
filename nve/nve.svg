@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 205.97255 70.327782"
-   height="70.327782mm"
-   width="205.97255mm">
+   viewBox="0 0 216.55571 70.32795"
+   height="70.32795mm"
+   width="216.55571mm">
   <defs
      id="defs2" />
   <metadata
@@ -25,26 +25,17 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-6.5365801,-0.92130885)"
+     transform="translate(-1.2449418,-0.9213372)"
      id="layer1">
+    <path
+       id="path841"
+       transform="matrix(0.26458333,0,0,0.26458333,6.5365801,0.92130885)"
+       d="M 10.236328,30.236328 51.009766,71.302734 H 276.06836 V 122.63672 L 389.00195,235.56836 501.93359,122.63672 V 71.302734 H 727.17578 L 768.24219,30.236328 H 450.60156 v 82.132812 l -61.59961,61.59961 -61.60156,-61.59961 V 30.236328 Z m 61.039063,61.59961 v 93.478512 l 51.333989,50.25391 v -92.39844 l 92.13281,92.13281 v 0.26563 h 51.33398 V 91.835938 H 214.74219 V 184.46484 L 122.60938,92.332031 v -0.496093 h -0.4961 z m 440.833989,0 -2.27344,143.734372 h 157.6582 l 40.37109,-41.06836 H 561.16992 l 2.27344,-61.59961 h 103.74219 l 41.0664,-41.066402 z"
+       style="fill:#336633;fill-opacity:1;stroke:none;stroke-width:1.66698015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="flowRoot815"
        style="font-style:normal;font-weight:normal;font-size:240px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#336633;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,19.276786,-36.091163)"
-       aria-label="nve">
-      <path
-         id="path823"
-         transform="translate(-72.857145,136.40755)"
-         d="M 54.941406,33.71875 95.714844,74.785156 H 300.77344 V 126.11914 L 413.70703,239.05078 526.63867,126.11914 V 33.71875 h -51.33203 v 82.13281 l -61.59961,61.59961 -61.60156,-61.59961 V 33.71875 Z m 61.039064,61.599609 v 93.477331 l 51.33398,50.25509 V 95.318359 Z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:293.33334351px;font-family:'Perfect Dark (BRK)';-inkscape-font-specification:'Perfect Dark (BRK)';fill:#336633;fill-opacity:1" />
-      <path
-         id="path827"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:293.33334351px;font-family:'Perfect Dark (BRK)';-inkscape-font-specification:'Perfect Dark (BRK)';fill:#336633;fill-opacity:1"
-         d="m 659.02411,211.19255 41.06666,-41.06667 H 414.09076 l 39.60001,41.06667 z m -195.06668,20.53333 h 51.33334 v 0 H 640.1003 l -41.06667,41.06667 h -83.74286 l -2.27284,61.6 h 126.69506 l -40.37125,41.06667 H 461.68459 Z" />
-    </g>
-    <path
-       id="path823-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:293.33334351px;line-height:1.25;font-family:'Perfect Dark (BRK)';-inkscape-font-specification:'Perfect Dark (BRK)';letter-spacing:0px;word-spacing:0px;fill:#336633;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       d="M 76.93587,63.249088 V 25.219642 H 63.353924 v 38.029446 z" />
+       aria-label="nve" />
   </g>
 </svg>
