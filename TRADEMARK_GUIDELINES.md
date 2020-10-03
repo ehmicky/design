@@ -68,23 +68,23 @@ This Policy covers:
 
 2\. Our logos (the "Logos"):
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/autoserver/autoserver.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/autoserver/autoserver.svg?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/get-bin-path/get-bin-path.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/get-bin-path/get-bin-path.svg?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/keep-func-props/keep-func-props.svg?sanitize=true" width="700"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/keep-func-props/keep-func-props.svg?sanitize=true" width="700"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/nve/nve.svg?sanitize=true" width="400"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/nve/nve.svg?sanitize=true" width="400"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/portable-node-guide/portable-node-guide.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/portable-node-guide/portable-node-guide.png?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/spyd/spyd.svg?sanitize=true" width="400"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/spyd/spyd.svg?sanitize=true" width="400"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/test-each/test-each.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/test-each/test-each.svg?sanitize=true" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/master/unix-permissions/unix-permissions.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/unix-permissions/unix-permissions.png?sanitize=true" width="500"/>
 
 3\. And the unique visual styling of our website and packaging (the
 "Trade Dress").
