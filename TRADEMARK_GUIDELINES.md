@@ -78,7 +78,7 @@ This Policy covers:
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/nve/nve.svg?sanitize=true" width="400"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/portable-node-guide/portable-node-guide.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform-nodejs/cross-platform-nodejs.png?sanitize=true" width="500"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/spyd/spyd.svg?sanitize=true" width="400"/>
 
