@@ -3,7 +3,7 @@
 ## Introduction
 
 This document, the "Policy," outlines the policy for the use of our trademarks
-in "Autoserver", "get-bin-path", "keep-func-props", "log-process-errors", "nve", "portable node.js", "spyd", test-each" and "unix-permissions"
+in "autoserver", "get-bin-path", "keep-func-props", "log-process-errors", "nve", "portable node.js", "spyd", "terminal-theme", test-each" and "unix-permissions"
 (each referred to as the "Project").
 
 While our software is available under a free and open source software license,
@@ -54,17 +54,18 @@ This Policy covers:
 
 1\. Our word trademarks and service marks (the "Word Marks"):
 
-| Mark               | Common descriptive name for the goods or services      |
-| :----------------- | ------------------------------------------------------ |
-| Autoserver         | Create a full-featured REST/GraphQL API from a configuration file |
-| get-bin-path       | Get the current package's binary path |
+| Mark               | Common descriptive name for the goods or services                      |
+| :----------------- | ---------------------------------------------------------------------- |
+| autoserver         | Create a full-featured REST/GraphQL API from a configuration file      |
+| get-bin-path       | Get the current package's binary path                                  |
 | keep-func-props    | Wrap a function without changing its name, length and other properties |
-| log-process-errors | Show some ❤️ to Node.js process errors                  |
-| nve                | Run a specific Node.js version |
-| portable node.js   | Practical guide on how to write portable/cross-platform Node.js code |
-| spyd               | JavaScript performance testing |
-| test-each          | Repeat tests. Repeat tests. Repeat tests |
-| unix-permissions   | Swiss Army knife for Unix permissions                  |
+| log-process-errors | Show some ❤️ to Node.js process errors                                 |
+| nve                | Run a specific Node.js version                                         |
+| portable node.js   | Practical guide on how to write portable/cross-platform Node.js code   |
+| spyd               | JavaScript performance testing                                         |
+| terminal-theme     | Use a color theme for your library's terminal output                   |
+| test-each          | Repeat tests. Repeat tests. Repeat tests                               |
+| unix-permissions   | Swiss Army knife for Unix permissions                                  |
 
 2\. Our logos (the "Logos"):
 
@@ -83,6 +84,8 @@ This Policy covers:
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/spyd/spyd.svg?sanitize=true" width="400"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/test-each/test-each.svg?sanitize=true" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/terminal-theme/terminal-theme.svg?sanitize=true" width="500"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/unix-permissions/unix-permissions.png?sanitize=true" width="500"/>
 
@@ -267,15 +270,15 @@ also apply.
 You may use the Word Marks and Logos, but not the Trade Dress, on your
 webpage to show your support for the Project as long as:
 
-  - The website has branding that is easily distinguished from the
-    Project Trade Dress;
-  - You own branding or naming is more prominent than any Project Marks;
-  - The Logos hyperlink to the Project website;
-  - The site does not mislead customers into thinking that either your
-    website, service, or product is our website, service, or product;
-    and
-  - The site clearly states that you are not affiliated with or endorsed
-    by the Project.
+- The website has branding that is easily distinguished from the
+  Project Trade Dress;
+- You own branding or naming is more prominent than any Project Marks;
+- The Logos hyperlink to the Project website;
+- The site does not mislead customers into thinking that either your
+  website, service, or product is our website, service, or product;
+  and
+- The site clearly states that you are not affiliated with or endorsed
+  by the Project.
 
 #### Publications and presentations
 
@@ -295,11 +298,11 @@ software and Project at events.
 You can use the Word Marks as part of your user group name provided
 that:
 
-  - The main focus of the group is the software;
-  - Any software or services the group provides are without cost;
-  - The group does not make a profit;
-  - Any charge to attend meetings are to cover the cost of the venue,
-    food and drink only.
+- The main focus of the group is the software;
+- Any software or services the group provides are without cost;
+- The group does not make a profit;
+- Any charge to attend meetings are to cover the cost of the venue,
+  food and drink only.
 
 Note that the [Universal considerations for all uses](#universal-considerations-for-all-uses), above, still
 apply, specifically, that you may not use or register the Marks as part
@@ -407,12 +410,12 @@ example, must be allowed to say that they repair VW cars. Here is what
 you should consider when deciding whether your use of a trademark is a
 nominative fair use:
 
-  - Whether you can identify the product or service in question without
-    using the trademark;
-  - Whether you are avoiding a likelihood of confusion in the way that
-    you have used the trademark; and
-  - Whether you have used only as much as is necessary to identify the
-    product or service.
+- Whether you can identify the product or service in question without
+  using the trademark;
+- Whether you are avoiding a likelihood of confusion in the way that
+  you have used the trademark; and
+- Whether you have used only as much as is necessary to identify the
+  product or service.
 
 With our "Foobar Certification" example above, the person offering the
 certification would be allowed to say, under the nominative fair use
