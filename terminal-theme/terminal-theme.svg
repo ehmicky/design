@@ -41,7 +41,7 @@
      id="g70"
      transform="translate(59.723982,55.45035)">
     <rect
-       style="fill:#262626;fill-opacity:1;stroke-width:1.33223"
+       style="fill:#333333;fill-opacity:1;stroke-width:1.33223"
        id="rect941"
        width="839.39404"
        height="207.67863"
@@ -60,18 +60,20 @@
          id="tspan860-7"
          x="6.0878119"
          y="78.440315"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#ffffff;stroke-width:2.10231">Terminal<tspan
-   style="font-size:48px"
-   id="tspan882"> </tspan><tspan
-   style="fill:#c463c8;fill-opacity:1"
-   id="tspan898">T</tspan><tspan
-   style="fill:#4568c9;fill-opacity:1"
-   id="tspan900">h</tspan><tspan
-   style="fill:#37c8b2;fill-opacity:1"
-   id="tspan904">e</tspan><tspan
-   style="fill:#b8c459;fill-opacity:1"
-   id="tspan906">m</tspan><tspan
-   style="fill:#ca4c4c;fill-opacity:1"
-   id="tspan910">e</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#ffffff;stroke-width:2.10231"><tspan
+           style="fill:#e5e5e5;fill-opacity:1"
+           id="tspan850">Terminal</tspan><tspan
+           style="font-size:48px"
+           id="tspan882"> </tspan><tspan
+           style="fill:#c463c8;fill-opacity:1"
+           id="tspan898">T</tspan><tspan
+           style="fill:#5a82dc;fill-opacity:1"
+           id="tspan900">h</tspan><tspan
+           style="fill:#37c8b2;fill-opacity:1"
+           id="tspan904">e</tspan><tspan
+           style="fill:#c0d04d;fill-opacity:1"
+           id="tspan906">m</tspan><tspan
+           style="fill:#d75a5a;fill-opacity:1"
+           id="tspan910">e</tspan></tspan></text>
   </g>
 </svg>
