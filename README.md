@@ -11,6 +11,8 @@ The `validate-path` logo is licensed under
 
 <img src="autoserver/autoserver.svg" width="500"/>
 
+<img src="cross-platform/cross-platform.svg" width="500"/>
+
 <img src="cross-platform-nodejs/cross-platform-nodejs.svg" width="500"/>
 
 <img src="execa/execa.svg" width="500"/>

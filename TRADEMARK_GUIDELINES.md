@@ -54,18 +54,19 @@ This Policy covers:
 
 1\. Our word trademarks and service marks (the "Word Marks"):
 
-| Mark               | Common descriptive name for the goods or services                      |
-| :----------------- | ---------------------------------------------------------------------- |
-| autoserver         | Create a full-featured REST/GraphQL API from a configuration file      |
-| get-bin-path       | Get the current package's binary path                                  |
-| keep-func-props    | Wrap a function without changing its name, length and other properties |
-| log-process-errors | Show some ❤️ to Node.js process errors                                 |
-| nve                | Run a specific Node.js version                                         |
-| portable node.js   | Practical guide on how to write portable/cross-platform Node.js code   |
-| spyd               | JavaScript performance testing                                         |
-| terminal-theme     | Use a color theme for your library's terminal output                   |
-| test-each          | Repeat tests. Repeat tests. Repeat tests                               |
-| unix-permissions   | Swiss Army knife for Unix permissions                                  |
+| Mark                               | Common descriptive name for the goods or services                      |
+| :--------------------------------- | ---------------------------------------------------------------------- |
+| autoserver                         | Create a full-featured REST/GraphQL API from a configuration file      |
+| get-bin-path                       | Get the current package's binary path                                  |
+| keep-func-props                    | Wrap a function without changing its name, length and other properties |
+| log-process-errors                 | Show some ❤️ to Node.js process errors                                 |
+| nve                                | Run a specific Node.js version                                         |
+| cross-platform-node-guide          | How to write cross-platform Node.js code                               |
+| cross-platform-terminal-characters | All the characters that work on any terminal and any operating system  |
+| spyd                               | JavaScript performance testing                                         |
+| terminal-theme                     | Use a color theme for your library's terminal output                   |
+| test-each                          | Repeat tests. Repeat tests. Repeat tests                               |
+| unix-permissions                   | Swiss Army knife for Unix permissions                                  |
 
 2\. Our logos (the "Logos"):
 
@@ -80,6 +81,8 @@ This Policy covers:
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/nve/nve.svg?sanitize=true" width="400"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform-nodejs/cross-platform-nodejs.png?sanitize=true" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform/cross-platform.png?sanitize=true" width="500"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/spyd/spyd.svg?sanitize=true" width="400"/>
 
