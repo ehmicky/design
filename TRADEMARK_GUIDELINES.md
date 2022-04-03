@@ -66,6 +66,10 @@ This Policy covers:
 | spyd                               | JavaScript performance testing                                         |
 | terminal-theme                     | Use a color theme for your library's terminal output                   |
 | test-each                          | Repeat tests. Repeat tests. Repeat tests                               |
+| wild-wild-parser                   | Parser for object property paths with wildcards and regexps            |
+| wild-wild-path                     | Object property paths with wildcards and regexps                       |
+| wild-wild-utils                    | Functional utilities using object property paths with wildcards and    |
+|                                    | regexps                                                                |
 | unix-permissions                   | Swiss Army knife for Unix permissions                                  |
 
 2\. Our logos (the "Logos"):
@@ -91,6 +95,12 @@ This Policy covers:
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/terminal-theme/terminal-theme.svg?sanitize=true" width="500"/>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/unix-permissions/unix-permissions.png?sanitize=true" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-parser/wild-wild-parser.png?sanitize=true" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-path/wild-wild-path.png?sanitize=true" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-utils/wild-wild-utils.png?sanitize=true" width="500"/>
 
 3\. And the unique visual styling of our website and packaging (the
 "Trade Dress").

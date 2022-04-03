@@ -39,6 +39,12 @@ The `validate-path` logo is licensed under
 
 <img src="validate-path/validate-path.svg" width="500"/>
 
+<img src="wild-wild-parser/wild-wild-parser.svg" width="500"/>
+
+<img src="wild-wild-path/wild-wild-path.svg" width="500"/>
+
+<img src="wild-wild-utils/wild-wild-utils.svg" width="500"/>
+
 # Fonts
 
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
@@ -49,3 +55,4 @@ The `validate-path` logo is licensed under
 - [Perfect Dark](https://www.dafont.com/perfect-dark.font): nve
 - [Segment7](https://fontlibrary.org/en/font/segment7): spyd
 - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver
+- [Vanilla Whale](https://typodermicfonts.com/vanilla-whale): wild-wild-parser, wild-wild-path, wild-wild-utils
