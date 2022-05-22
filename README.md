@@ -15,6 +15,8 @@ The `validate-path` logo is licensed under
 
 <img src="cross-platform-nodejs/cross-platform-nodejs.svg" width="500"/>
 
+<img src="declarative-merge/declarative-merge.svg" width="500"/>
+
 <img src="execa/execa.svg" width="500"/>
 
 <img src="gulp-execa/gulp-execa.svg" width="500"/>
@@ -47,6 +49,7 @@ The `validate-path` logo is licensed under
 
 # Fonts
 
+- [Break](https://www.creativefabrica.com/product/break-7/ref/144265): declarative-merge
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
 - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, mimic-fn, unix-permissions
 - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa

@@ -57,49 +57,52 @@ This Policy covers:
 | Mark                               | Common descriptive name for the goods or services                           |
 | :--------------------------------- | --------------------------------------------------------------------------- |
 | autoserver                         | Create a full-featured REST/GraphQL API from a configuration file           |
+| cross-platform-node-guide          | How to write cross-platform Node.js code                                    |
+| cross-platform-terminal-characters | All the characters that work on any terminal and any operating system       |
+| declarative-merge                  | Merge objects/arrays declaratively                                          |
 | get-bin-path                       | Get the current package's binary path                                       |
 | keep-func-props                    | Wrap a function without changing its name, length and other properties      |
 | log-process-errors                 | Show some ❤️ to Node.js process errors                                      |
 | nve                                | Run a specific Node.js version                                              |
-| cross-platform-node-guide          | How to write cross-platform Node.js code                                    |
-| cross-platform-terminal-characters | All the characters that work on any terminal and any operating system       |
 | spyd                               | JavaScript performance testing                                              |
 | terminal-theme                     | Use a color theme for your library's terminal output                        |
 | test-each                          | Repeat tests. Repeat tests. Repeat tests                                    |
+| unix-permissions                   | Swiss Army knife for Unix permissions                                       |
 | wild-wild-parser                   | Parser for object property paths with wildcards and regexps                 |
 | wild-wild-path                     | Object property paths with wildcards and regexps                            |
 | wild-wild-utils                    | Functional utilities using object property paths with wildcards and regexps |
-| unix-permissions                   | Swiss Army knife for Unix permissions                                       |
 
 2\. Our logos (the "Logos"):
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/autoserver/autoserver.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/autoserver/autoserver.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/get-bin-path/get-bin-path.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform-nodejs/cross-platform-nodejs.png" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/keep-func-props/keep-func-props.svg?sanitize=true" width="700"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform/cross-platform.png" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/log-process-errors/log-process-errors.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/declarative-merge/declarative-merge.png" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/nve/nve.svg?sanitize=true" width="400"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/get-bin-path/get-bin-path.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform-nodejs/cross-platform-nodejs.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/keep-func-props/keep-func-props.svg" width="700"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform/cross-platform.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/log-process-errors/log-process-errors.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/spyd/spyd.svg?sanitize=true" width="400"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/nve/nve.svg" width="400"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/test-each/test-each.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/spyd/spyd.svg" width="400"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/terminal-theme/terminal-theme.svg?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/terminal-theme/terminal-theme.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/unix-permissions/unix-permissions.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/test-each/test-each.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-parser/wild-wild-parser.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/unix-permissions/unix-permissions.png" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-path/wild-wild-path.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-parser/wild-wild-parser.png" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-utils/wild-wild-utils.png?sanitize=true" width="500"/>
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-path/wild-wild-path.png" width="500"/>
+
+<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-utils/wild-wild-utils.png" width="500"/>
 
 3\. And the unique visual styling of our website and packaging (the
 "Trade Dress").
