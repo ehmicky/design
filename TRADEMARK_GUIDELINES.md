@@ -63,6 +63,7 @@ This Policy covers:
 | get-bin-path                       | Get the current package's binary path                                       |
 | keep-func-props                    | Wrap a function without changing its name, length and other properties      |
 | log-process-errors                 | Show some ❤️ to Node.js process errors                                      |
+| modern-errors                      | Handle errors like it's 2022                                                |
 | nve                                | Run a specific Node.js version                                              |
 | spyd                               | JavaScript performance testing                                              |
 | terminal-theme                     | Use a color theme for your library's terminal output                        |
