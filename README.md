@@ -29,6 +29,8 @@ The `validate-path` logo is licensed under
 
 <img src="mimic-fn/mimic-fn.svg" width="430"/>
 
+<img src="modern-errors/modern-errors.svg" width="500"/>
+
 <img src="nve/nve.svg" width="400"/>
 
 <img src="spyd/spyd.svg" width="400"/>
@@ -49,6 +51,7 @@ The `validate-path` logo is licensed under
 
 # Fonts
 
+- [Atmos](https://www.behance.net/dmzl-studio): modern-errors
 - [Break](https://www.creativefabrica.com/product/break-7/ref/144265): declarative-merge
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
 - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, mimic-fn, unix-permissions
