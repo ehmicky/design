@@ -29,7 +29,10 @@ The `validate-path` logo is licensed under
 
 <img src="mimic-fn/mimic-fn.svg" width="430"/>
 
-<img src="modern-errors/modern-errors.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="modern-errors/modern-errors_dark.svg">
+  <img alt="modern-errors" src="modern-errors/modern-errors.svg" width="500">
+</picture>
 
 <img src="nve/nve.svg" width="400"/>
 
