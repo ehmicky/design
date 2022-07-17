@@ -75,40 +75,85 @@ This Policy covers:
 
 2\. Our logos (the "Logos"):
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/autoserver/autoserver.svg" width="500"/>
-
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform-nodejs/cross-platform-nodejs.png" width="500"/>
-
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/cross-platform/cross-platform.png" width="500"/>
-
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/declarative-merge/declarative-merge.png" width="500"/>
-
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/get-bin-path/get-bin-path.svg" width="500"/>
-
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/keep-func-props/keep-func-props.svg" width="700"/>
-
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/log-process-errors/log-process-errors.svg" width="500"/>
+<img alt="autoserver logo" src="autoserver/autoserver.svg" width="500"/>
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="modern-errors/modern-errors_dark.svg">
-  <img alt="modern-errors" src="modern-errors/modern-errors.svg" width="500">
+  <source media="(prefers-color-scheme: dark)" srcset="cross-platform/cross-platform_dark.svg"/>
+  <img alt="cross-platform logo" src="cross-platform/cross-platform.svg" width="500"/>
 </picture>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/nve/nve.svg" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cross-platform-nodejs/cross-platform-nodejs_dark.svg"/>
+  <img alt="cross-platform-nodejs logo" src="cross-platform-nodejs/cross-platform-nodejs.svg" width="500"/>
+</picture>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/spyd/spyd.svg" width="400"/>
+<img alt="declarative-merge logo" src="declarative-merge/declarative-merge.svg" width="500"/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/terminal-theme/terminal-theme.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="get-bin-path/get-bin-path_dark.svg"/>
+  <img alt="get-bin-path logo" src="get-bin-path/get-bin-path.svg" width="500"/>
+</picture>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/test-each/test-each.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="keep-func-props/keep-func-props_dark.svg"/>
+  <img alt="keep-func-props logo" src="keep-func-props/keep-func-props.svg" width="700"/>
+</picture>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/unix-permissions/unix-permissions.png" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="log-process-errors/log-process-errors_dark.svg"/>
+  <img alt="log-process-errors logo" src="log-process-errors/log-process-errors.svg" width="500"/>
+</picture>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-parser/wild-wild-parser.png" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="modern-errors/modern-errors_dark.svg"/>
+  <img alt="modern-errors logo" src="modern-errors/modern-errors.svg" width="500"/>
+</picture>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-path/wild-wild-path.png" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="nve/nve_dark.svg"/>
+  <img alt="nve logo" src="nve/nve.svg" width="500"/>
+</picture>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/wild-wild-utils/wild-wild-utils.png" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="spyd/spyd_dark.svg"/>
+  <img alt="spyd logo" src="spyd/spyd.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="terminal-theme/terminal-theme_dark.svg"/>
+  <img alt="terminal-theme logo" src="terminal-theme/terminal-theme.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="test-each/test-each_dark.svg"/>
+  <img alt="test-each logo" src="test-each/test-each.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="unix-permissions/unix-permissions_dark.png"/>
+  <img alt="unix-permissions logo" src="unix-permissions/unix-permissions.png" width="500"/>
+</picture>
+<br/><br/>
+
+<img alt="wild-wild-parser logo" src="wild-wild-parser/wild-wild-parser.svg" width="500"/>
+<br/><br/>
+
+<img alt="wild-wild-path logo" src="wild-wild-path/wild-wild-path.svg" width="500"/>
+<br/><br/>
+
+<img alt="wild-wild-utils logo" src="wild-wild-utils/wild-wild-utils.svg" width="500"/>
 
 3\. And the unique visual styling of our website and packaging (the
 "Trade Dress").
