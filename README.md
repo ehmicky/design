@@ -94,8 +94,8 @@ The `validate-path` logo is licensed under
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="unix-permissions/unix-permissions_dark.svg"/>
-  <img alt="unix-permissions logo" src="unix-permissions/unix-permissions.svg" width="500"/>
+  <source media="(prefers-color-scheme: dark)" srcset="unix-permissions/unix-permissions_dark.png"/>
+  <img alt="unix-permissions logo" src="unix-permissions/unix-permissions.png" width="500"/>
 </picture>
 <br/><br/>
 
