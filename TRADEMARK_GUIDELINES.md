@@ -89,7 +89,10 @@ This Policy covers:
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/log-process-errors/log-process-errors.svg" width="500"/>
 
-<img src="https://raw.githubusercontent.com/ehmicky/design/main/modern-errors/modern-errors.png" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="modern-errors/modern-errors_dark.svg">
+  <img alt="modern-errors" src="modern-errors/modern-errors.svg" width="500">
+</picture>
 
 <img src="https://raw.githubusercontent.com/ehmicky/design/main/nve/nve.svg" width="400"/>
 
