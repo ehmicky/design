@@ -63,6 +63,8 @@ The `validate-path` logo is licensed under
   <img alt="nve logo" src="nve/nve.svg" width="500"/>
 </picture>
 
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="spyd/spyd_dark.svg"/>
   <img alt="spyd logo" src="spyd/spyd.svg" width="500"/>
