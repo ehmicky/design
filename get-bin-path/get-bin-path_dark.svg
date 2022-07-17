@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="213.40215mm"
+   height="45.400002mm"
+   viewBox="0 0 213.40215 45.400002"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(6.8487712,-16.790655)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion817"><rect
+           id="rect819"
+           width="773.77686"
+           height="172.73608"
+           x="2.0203052"
+           y="89.133629" /></flowRegion><flowPara
+         id="flowPara821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono'"><flowSpan
+           style="font-size:96px;fill:#92662f;fill-opacity:1"
+           id="flowSpan1005">/</flowSpan><flowSpan
+           style="fill:#e5e5e5;fill-opacity:1"
+           id="flowSpan9964">get</flowSpan><flowSpan
+           style="font-size:96px;fill:#92662f;fill-opacity:1"
+           id="flowSpan823">/</flowSpan><flowSpan
+           style="fill:#e5e5e5;fill-opacity:1"
+           id="flowSpan15708">bin</flowSpan><flowSpan
+           style="font-size:96px;fill:#92662f;fill-opacity:1"
+           id="flowSpan1007">.</flowSpan><flowSpan
+           style="fill:#e5e5e5;fill-opacity:1"
+           id="flowSpan17944">path</flowSpan></flowPara></flowRoot>
+  </g>
+</svg>

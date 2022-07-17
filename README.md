@@ -9,48 +9,90 @@ The `validate-path` logo is licensed under
 
 # Logos
 
-<img src="autoserver/autoserver.svg" width="500"/>
+<img alt="autoserver logo" src="autoserver/autoserver.svg" width="500"/>
 
-<img src="cross-platform/cross-platform.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cross-platform/cross-platform_dark.svg">
+  <img alt="cross-platform logo" src="cross-platform/cross-platform.svg" width="500">
+</picture>
 
-<img src="cross-platform-nodejs/cross-platform-nodejs.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cross-platform-nodejs/cross-platform-nodejs_dark.svg">
+  <img alt="cross-platform-nodejs logo" src="cross-platform-nodejs/cross-platform-nodejs.svg" width="500">
+</picture>
 
-<img src="declarative-merge/declarative-merge.svg" width="500"/>
+<img alt="declarative-merge logo" src="declarative-merge/declarative-merge.svg" width="500"/>
 
-<img src="execa/execa.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="execa/execa_dark.svg">
+  <img alt="execa logo" src="execa/execa.svg" width="500">
+</picture>
 
-<img src="gulp-execa/gulp-execa.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="gulp-execa/gulp-execa_dark.svg">
+  <img alt="gulp-execa logo" src="gulp-execa/gulp-execa.svg" width="500">
+</picture>
 
-<img src="get-bin-path/get-bin-path.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="get-bin-path/get-bin-path_dark.svg">
+  <img alt="get-bin-path logo" src="get-bin-path/get-bin-path.svg" width="500">
+</picture>
 
-<img src="keep-func-props/keep-func-props.svg" width="700"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="keep-func-props/keep-func-props_dark.svg">
+  <img alt="keep-func-props logo" src="keep-func-props/keep-func-props.svg" width="700">
+</picture>
 
-<img src="log-process-errors/log-process-errors.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="log-process-errors/log-process-errors_dark.svg">
+  <img alt="log-process-errors logo" src="log-process-errors/log-process-errors.svg" width="500">
+</picture>
 
-<img src="mimic-fn/mimic-fn.svg" width="430"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="mimic-fn/mimic-fn_dark.svg">
+  <img alt="mimic-fn logo" src="mimic-fn/mimic-fn.svg" width="430">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="modern-errors/modern-errors_dark.svg">
-  <img alt="modern-errors" src="modern-errors/modern-errors.svg" width="500">
+  <img alt="modern-errors logo" src="modern-errors/modern-errors.svg" width="500">
 </picture>
 
-<img src="nve/nve.svg" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="nve/nve_dark.svg">
+  <img alt="nve logo" src="nve/nve.svg" width="400">
+</picture>
 
-<img src="spyd/spyd.svg" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="spyd/spyd_dark.svg">
+  <img alt="spyd logo" src="spyd/spyd.svg" width="400">
+</picture>
 
-<img src="terminal-theme/terminal-theme.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="terminal-theme/terminal-theme_dark.svg">
+  <img alt="terminal-theme logo" src="terminal-theme/terminal-theme.svg" width="500">
+</picture>
 
-<img src="test-each/test-each.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="test-each/test-each_dark.svg">
+  <img alt="test-each logo" src="test-each/test-each.svg" width="500">
+</picture>
 
-<img src="unix-permissions/unix-permissions.png" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="unix-permissions/unix-permissions_dark.svg">
+  <img alt="unix-permissions logo" src="unix-permissions/unix-permissions.svg" width="500">
+</picture>
 
-<img src="validate-path/validate-path.svg" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="validate-path/validate-path_dark.svg">
+  <img alt="validate-path logo" src="validate-path/validate-path.svg" width="500">
+</picture>
 
-<img src="wild-wild-parser/wild-wild-parser.svg" width="500"/>
+<img alt="wild-wild-parser logo" src="wild-wild-parser/wild-wild-parser.svg" width="500"/>
 
-<img src="wild-wild-path/wild-wild-path.svg" width="500"/>
+<img alt="wild-wild-path logo" src="wild-wild-path/wild-wild-path.svg" width="500"/>
 
-<img src="wild-wild-utils/wild-wild-utils.svg" width="500"/>
+<img alt="wild-wild-utils logo" src="wild-wild-utils/wild-wild-utils.svg" width="500"/>
 
 # Fonts
 

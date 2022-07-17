@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg62"
+   width="815.18439"
+   height="204.71188"
+   viewBox="0 0 815.18434 204.71188"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs66">
+    <rect
+       x="-2.6728759"
+       y="107.2543"
+       width="855.65973"
+       height="121.8786"
+       id="rect856" />
+    <rect
+       x="13.748508"
+       y="-67.901062"
+       width="684.992"
+       height="57.162315"
+       id="rect76" />
+  </defs>
+  <g
+     id="g70"
+     transform="translate(59.723982,55.45035)">
+    <text
+       xml:space="preserve"
+       id="text854"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';white-space:pre;shape-inside:url(#rect856);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.0926px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.10231"
+       x="6.0878119"
+       y="78.440315"
+       id="text862-9"><tspan
+         id="tspan860-7"
+         x="6.0878119"
+         y="78.440315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';fill:#ffffff;stroke-width:2.10231"><tspan
+           style="fill:#e5e5e5;fill-opacity:1"
+           id="tspan850">Terminal</tspan><tspan
+           style="font-size:48px"
+           id="tspan882"> </tspan><tspan
+           style="fill:#c463c8;fill-opacity:1"
+           id="tspan898">T</tspan><tspan
+           style="fill:#5a82dc;fill-opacity:1"
+           id="tspan900">h</tspan><tspan
+           style="fill:#37c8b2;fill-opacity:1"
+           id="tspan904">e</tspan><tspan
+           style="fill:#c0d04d;fill-opacity:1"
+           id="tspan906">m</tspan><tspan
+           style="fill:#d75a5a;fill-opacity:1"
+           id="tspan910">e</tspan></tspan></text>
+  </g>
+</svg>
