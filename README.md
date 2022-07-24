@@ -46,6 +46,12 @@ The `validate-path` logo is licensed under
 <br/><br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="handle-cli-error/handle-cli-error_dark.svg"/>
+  <img alt="handle-cli-error logo" src="handle-cli-error/handle-cli-error.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="keep-func-props/keep-func-props_dark.svg"/>
   <img alt="keep-func-props logo" src="keep-func-props/keep-func-props.svg" width="700"/>
 </picture>
