@@ -133,6 +133,6 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 # Credits
 
-- handle-cli-error: the logo background was created by [dgim-studio](https://www.freepik.com/vectors/comic-explosion)
+- handle-cli-error: the logo background was created by [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
 - validate-path: the logo was designed by [reallinfo](https://github.com/reallinfo). It is licensed under
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
