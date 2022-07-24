@@ -61,6 +61,7 @@ This Policy covers:
 | cross-platform-terminal-characters | All the characters that work on any terminal and any operating system       |
 | declarative-merge                  | Merge objects/arrays declaratively                                          |
 | get-bin-path                       | Get the current package's binary path                                       |
+| handle-cli-error                   | 💥 Error handler for CLI applications                                       |
 | keep-func-props                    | Wrap a function without changing its name, length and other properties      |
 | log-process-errors                 | Show some ❤️ to Node.js process errors                                      |
 | modern-errors                      | Handle errors like it's 2022                                                |
