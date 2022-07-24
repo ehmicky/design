@@ -3,10 +3,6 @@ This repository contains the logos used in my projects.
 The names and logos are trademarked, but you are free to use them providing they
 follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
-The `validate-path` logo is licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). It was designed by
-[reallinfo](https://github.com/reallinfo).
-
 # Logos
 
 <img alt="autoserver logo" src="autoserver/autoserver.svg" width="500"/>
@@ -122,6 +118,8 @@ The `validate-path` logo is licensed under
 # Fonts
 
 - [Atmos](https://www.behance.net/dmzl-studio): modern-errors
+- [Badaboom](https://blambot.com/collections/all-fonts/products/badaboom): handle-cli-error
+- [Bomb](http://www.woodcutter.es): handle-cli-error
 - [Break](https://www.creativefabrica.com/product/break-7/ref/144265): declarative-merge
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
 - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, mimic-fn, unix-permissions
@@ -132,3 +130,9 @@ The `validate-path` logo is licensed under
 - [Segment7](https://fontlibrary.org/en/font/segment7): spyd
 - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver
 - [Vanilla Whale](https://typodermicfonts.com/vanilla-whale): wild-wild-parser, wild-wild-path, wild-wild-utils
+
+# Credits
+
+- handle-cli-error: the logo background was created by [dgim-studio](https://www.freepik.com/vectors/comic-explosion)
+- validate-path: the logo was designed by [reallinfo](https://github.com/reallinfo). It is licensed under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
