@@ -131,7 +131,7 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver
 - [Vanilla Whale](https://typodermicfonts.com/vanilla-whale): wild-wild-parser, wild-wild-path, wild-wild-utils
 
-# Credits
+# Additional credits
 
 - handle-cli-error: the logo background was created by [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
 - validate-path: the logo was designed by [reallinfo](https://github.com/reallinfo). It is licensed under
