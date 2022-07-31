@@ -66,6 +66,7 @@ This Policy covers:
 | log-process-errors                 | Show some ❤️ to Node.js process errors                                      |
 | modern-errors                      | Handle errors like it's 2022                                                |
 | nve                                | Run a specific Node.js version                                              |
+| safe-json-value                    | ⛑️ JSON serialization should never fail                                     |
 | spyd                               | JavaScript performance testing                                              |
 | terminal-theme                     | Use a color theme for your library's terminal output                        |
 | test-each                          | Repeat tests. Repeat tests. Repeat tests                                    |
@@ -127,6 +128,12 @@ This Policy covers:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="nve/nve_dark.svg"/>
   <img alt="nve logo" src="nve/nve.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="safe-json-value/safe-json-value_dark.svg"/>
+  <img alt="safe-json-value logo" src="safe-json-value/safe-json-value.svg" width="700"/>
 </picture>
 <br/><br/>
 
