@@ -79,7 +79,7 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="safe-json-value/safe-json-value_dark.svg"/>
-  <img alt="safe-json-value logo" src="safe-json-value/safe-json-value.svg" width="500"/>
+  <img alt="safe-json-value logo" src="safe-json-value/safe-json-value.svg" width="700"/>
 </picture>
 <br/><br/>
 
