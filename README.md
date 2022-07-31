@@ -78,6 +78,12 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 <br/><br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="safe-json-value/safe-json-value_dark.svg"/>
+  <img alt="safe-json-value logo" src="safe-json-value/safe-json-value.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="spyd/spyd_dark.svg"/>
   <img alt="spyd logo" src="spyd/spyd.svg" width="500"/>
 </picture>
@@ -122,7 +128,7 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 - [Bomb](http://www.woodcutter.es): handle-cli-error
 - [Break](https://www.creativefabrica.com/product/break-7/ref/144265): declarative-merge
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
-- [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, mimic-fn, unix-permissions
+- [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, mimic-fn, safe-json-value, unix-permissions
 - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa
 - [Montserrat](https://fonts.google.com/specimen/Montserrat): validate-path
 - [Neuropolitical](http://typodermicfonts.com/neuropolitical-science): test-each
@@ -134,5 +140,6 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 # Additional credits
 
 - handle-cli-error: the logo background was created by [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
+- safe-json-value: the validation check sign was created by [delapouite](https://game-icons.net/1x1/delapouite/check-mark.html). It is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 - validate-path: the logo was designed by [reallinfo](https://github.com/reallinfo). It is licensed under
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
