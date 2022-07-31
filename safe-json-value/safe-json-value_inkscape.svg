@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.57281mm"
+   height="30.167805mm"
+   viewBox="0 0 154.57281 30.167805"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="safe-json-value_inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2760799"
+     inkscape:cx="320.12102"
+     inkscape:cy="118.72297"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="5"
+     fit-margin-left="7"
+     fit-margin-right="7"
+     fit-margin-bottom="6" />
+  <defs
+     id="defs2">
+    <rect
+       x="104.99195"
+       y="207.3347"
+       width="665.96704"
+       height="312.09982"
+       id="rect3422" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.941902,-46.062562)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3420"
+       style="font-size:40px;line-height:1.25;font-family:'BadaBoom BB';-inkscape-font-specification:'BadaBoom BB';white-space:pre;shape-inside:url(#rect3422)"><tspan
+         x="104.99219"
+         y="245.53876"
+         id="tspan76467"><tspan
+           style="fill:#666666"
+           id="tspan76453">{&quot;</tspan><tspan
+           style="fill:#1a1a1a"
+           id="tspan76455">safe-json</tspan><tspan
+           style="fill:#666666"
+           id="tspan76457">&quot;:&quot;</tspan><tspan
+           style="font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono'"
+           id="tspan76459">  </tspan><tspan
+           style="font-size:20px"
+           id="tspan76461"> </tspan><tspan
+           style="fill:#1a1a1a"
+           id="tspan76463">alue</tspan><tspan
+           style="fill:#666666"
+           id="tspan76465">&quot;}</tspan></tspan></text>
+    <g
+       id="g29121"
+       transform="matrix(0.04390396,0,0,0.04171993,115.71914,49.975341)"
+       style="fill:#00d700;fill-opacity:1">
+      <path
+         d="M 17.47,250.9 C 88.82,328.1 158,397.6 224.5,485.5 296.8,341.7 370.8,197.4 492.9,41.13 L 460,26.06 C 356.9,135.4 276.8,238.9 207.2,361.9 158.8,318.3 80.58,256.6 32.82,224.9 Z"
+         fill="#fff"
+         fill-opacity="1"
+         id="path29119"
+         style="fill:#00d700;fill-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'BadaBoom BB';-inkscape-font-specification:'BadaBoom BB';stroke-width:0.264583"
+       x="278.95816"
+       y="39.81506"
+       id="text20076"><tspan
+         sodipodi:role="line"
+         id="tspan20074"
+         style="stroke-width:0.264583"
+         x="278.95816"
+         y="39.81506"></tspan></text>
+  </g>
+</svg>
