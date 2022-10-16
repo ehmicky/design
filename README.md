@@ -107,12 +107,6 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 </picture>
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="validate-path/validate-path_dark.svg"/>
-  <img alt="validate-path logo" src="validate-path/validate-path.svg" width="500"/>
-</picture>
-<br/><br/>
-
 <img alt="wild-wild-parser logo" src="wild-wild-parser/wild-wild-parser.svg" width="500"/>
 <br/><br/>
 
@@ -130,7 +124,6 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
 - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, mimic-fn, safe-json-value, unix-permissions
 - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa
-- [Montserrat](https://fonts.google.com/specimen/Montserrat): validate-path
 - [Neuropolitical](http://typodermicfonts.com/neuropolitical-science): test-each
 - [Perfect Dark](https://www.dafont.com/perfect-dark.font): nve
 - [Segment7](https://fontlibrary.org/en/font/segment7): spyd
@@ -141,5 +134,3 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 - handle-cli-error: the logo background was created by [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
 - safe-json-value: the validation check sign was created by [delapouite](https://game-icons.net/1x1/delapouite/check-mark.html). It is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
-- validate-path: the logo was designed by [reallinfo](https://github.com/reallinfo). It is licensed under
-  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
