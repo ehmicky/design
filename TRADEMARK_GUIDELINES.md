@@ -64,7 +64,7 @@ This Policy covers:
 | handle-cli-error                   | 💣 Error handler for CLI applications 💥                                    |
 | keep-func-props                    | Wrap a function without changing its name, length and other properties      |
 | log-process-errors                 | Show some ❤️ to Node.js process errors                                      |
-| modern-errors                      | Handle errors like it's 2023                                                |
+| modern-errors                      | Handle errors in a simple, stable, consistent way                           |
 | nve                                | Run a specific Node.js version                                              |
 | safe-json-value                    | ⛑️ JSON serialization should never fail                                     |
 | spyd                               | JavaScript performance testing                                              |
