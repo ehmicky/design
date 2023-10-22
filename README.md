@@ -6,6 +6,15 @@ This repository contains the logos used in my projects.
 The names and logos are trademarked, but you are free to use them providing they
 follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
+# Hire me
+
+Please
+[reach out](https://www.linkedin.com/feed/update/urn:li:activity:7117265228068716545/)
+if you're looking for a Node.js API or CLI engineer (11 years of experience).
+Most recently I have been [Netlify Build](https://github.com/netlify/build)'s
+and [Netlify Plugins](https://www.netlify.com/products/build/plugins/)'
+technical lead for 2.5 years. I am available for full-time remote positions.
+
 # Logos
 
 <img alt="autoserver logo" src="autoserver/autoserver.svg" width="500"/>
