@@ -130,19 +130,28 @@ technical lead for 2.5 years. I am available for full-time remote positions.
 # Fonts
 
 - [Atmos](https://www.behance.net/dmzl-studio): modern-errors
-- [Badaboom](https://blambot.com/collections/all-fonts/products/badaboom): handle-cli-error
+- [Badaboom](https://blambot.com/collections/all-fonts/products/badaboom):
+  handle-cli-error
 - [Bomb](http://www.woodcutter.es): handle-cli-error
-- [Break](https://www.creativefabrica.com/product/break-7/ref/144265): declarative-merge
-- [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors, cross-platform-node
-- [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path, keep-func-props, mimic-fn, safe-json-value, unix-permissions
-- [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa, gulp-execa
+- [Break](https://www.creativefabrica.com/product/break-7/ref/144265):
+  declarative-merge
+- [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors,
+  cross-platform-node
+- [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path,
+  keep-func-props, mimic-fn, safe-json-value, unix-permissions
+- [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa,
+  gulp-execa
 - [Neuropolitical](http://typodermicfonts.com/neuropolitical-science): test-each
 - [Perfect Dark](https://www.dafont.com/perfect-dark.font): nve
 - [Segment7](https://fontlibrary.org/en/font/segment7): spyd
 - [Tenby Five](http://www.paragraph.com.au/tenby.html): autoserver
-- [Vanilla Whale](https://typodermicfonts.com/vanilla-whale): wild-wild-parser, wild-wild-path, wild-wild-utils
+- [Vanilla Whale](https://typodermicfonts.com): wild-wild-parser,
+  wild-wild-path, wild-wild-utils
 
 # Additional credits
 
-- handle-cli-error: the logo background was created by [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
-- safe-json-value: the validation check sign was created by [delapouite](https://game-icons.net/1x1/delapouite/check-mark.html). It is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+- handle-cli-error: the logo background was created by
+  [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
+- safe-json-value: the validation check sign was created by
+  [delapouite](https://game-icons.net/1x1/delapouite/check-mark.html). It is
+  licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
