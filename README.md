@@ -72,8 +72,8 @@ technical lead for 2.5 years. I am available for full-time remote positions.
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="mimic-fn/mimic-fn_dark.svg"/>
-  <img alt="mimic-fn logo" src="mimic-fn/mimic-fn.svg" width="500"/>
+  <source media="(prefers-color-scheme: dark)" srcset="mimic-function/mimic-function_dark.svg"/>
+  <img alt="mimic-function logo" src="mimic-function/mimic-function.svg" width="500"/>
 </picture>
 <br/><br/>
 
@@ -138,7 +138,7 @@ technical lead for 2.5 years. I am available for full-time remote positions.
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors,
   cross-platform-node
 - [Droid Sans Mono](https://en.wikipedia.org/wiki/Droid_fonts): get-bin-path,
-  keep-func-props, mimic-fn, safe-json-value, unix-permissions
+  keep-func-props, mimic-function, safe-json-value, unix-permissions
 - [ISL Fade To Blak](https://www.dafont.com/isl-fade-to-blak.font): execa,
   gulp-execa
 - [Neuropolitical](http://typodermicfonts.com/neuropolitical-science): test-each
