@@ -13,7 +13,7 @@
   },
   "author": "ehmicky <ehmicky@gmail.com> (https://github.com/ehmicky)",
   "devDependencies": {
-    "@ehmicky/dev-tasks": "^3.0.2"
+    "@ehmicky/dev-tasks": "^3.0.3"
   },
   "engines": {
     "node": ">=18.18.0"
