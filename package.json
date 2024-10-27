@@ -8,6 +8,10 @@
     "type": "git",
     "url": "git+https://github.com/ehmicky/design.git"
   },
+  "files": [
+    "README.md",
+    "TRADEMARK_GUIDELINES.md"
+  ],
   "bugs": {
     "url": "https://github.com/ehmicky/design/issues"
   },
