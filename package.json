@@ -13,7 +13,7 @@
   },
   "author": "ehmicky <ehmicky@gmail.com> (https://github.com/ehmicky)",
   "devDependencies": {
-    "@ehmicky/dev-tasks": "^3.0.19",
+    "@ehmicky/dev-tasks": "^3.0.20",
     "@ehmicky/eslint-config": "^20.0.4",
     "@ehmicky/prettier-config": "^1.0.0"
   },
