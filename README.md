@@ -152,6 +152,5 @@ technical lead for 2.5 years. I am available for full-time remote positions.
 
 - handle-cli-error: the logo background was created by
   [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
-- safe-json-value: the validation check sign was created by
-  [delapouite](https://game-icons.net/1x1/delapouite/check-mark.html). It is
+- safe-json-value: the validation check sign was created by delapouite. It is
   licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
