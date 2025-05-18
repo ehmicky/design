@@ -51,6 +51,12 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 <br/><br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="beautiful-error/beautiful-error_dark.svg"/>
+  <img alt="beautiful-error logo" src="beautiful-error/beautiful-error.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="keep-func-props/keep-func-props_dark.svg"/>
   <img alt="keep-func-props logo" src="keep-func-props/keep-func-props.svg" width="700"/>
 </picture>
@@ -122,8 +128,8 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 - [Atmos](https://www.behance.net/dmzl-studio): modern-errors
 - [Badaboom](https://blambot.com/collections/all-fonts/products/badaboom):
-  handle-cli-error
-- [Bomb](http://www.woodcutter.es): handle-cli-error
+  handle-cli-error, beautiful-error
+- [Bomb](http://www.woodcutter.es): handle-cli-error, beautiful-error
 - [Break](https://www.creativefabrica.com/product/break-7/ref/144265):
   declarative-merge
 - [DejaVu Sans](https://en.wikipedia.org/wiki/DejaVu_fonts): log-process-errors,
@@ -141,7 +147,7 @@ follow the [trademark guidelines](TRADEMARK_GUIDELINES.md).
 
 # Additional credits
 
-- handle-cli-error: the logo background was created by
+- handle-cli-error, beautiful-error: the logo background was created by
   [dgim-studio](https://www.freepik.com/free-vector/comic-dynamic-elements-set_7997347.htm).
 - safe-json-value: the validation check sign was created by delapouite. It is
   licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).

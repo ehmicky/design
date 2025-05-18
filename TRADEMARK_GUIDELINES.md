@@ -60,6 +60,7 @@ This Policy covers:
 | declarative-merge                  | Merge objects/arrays declaratively                                          |
 | get-bin-path                       | Get the current package's binary path                                       |
 | handle-cli-error                   | 💣 Error handler for CLI applications 💥                                    |
+| beautiful-error                    | 💣 Prettify error messages and stacks 💥                                    |
 | keep-func-props                    | Wrap a function without changing its name, length and other properties      |
 | log-process-errors                 | Show some ❤️ to Node.js process errors                                      |
 | modern-errors                      | Handle errors in a simple, stable, consistent way                           |
@@ -102,6 +103,12 @@ This Policy covers:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="handle-cli-error/handle-cli-error_dark.svg"/>
   <img alt="handle-cli-error logo" src="handle-cli-error/handle-cli-error.svg" width="500"/>
+</picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="beautiful-error/beautiful-error_dark.svg"/>
+  <img alt="beautiful-error logo" src="beautiful-error/beautiful-error.svg" width="500"/>
 </picture>
 <br/><br/>
 
